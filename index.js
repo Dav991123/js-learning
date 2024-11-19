@@ -21,7 +21,6 @@ switch(operation) {
 }
 
 
-console.log(output); //0
 
 
 // homework2 
@@ -35,7 +34,6 @@ switch(day) {
     default:  translatedDay = 'wrong day';
 }
 
-console.log(translatedDay);
 
 // homework3
 
@@ -50,7 +48,6 @@ if (month === 12 || month === 1 || month === 2) {
     output = 'wrong month'
 }
 
-console.log(output, 'output');
 
 
 // homework3
